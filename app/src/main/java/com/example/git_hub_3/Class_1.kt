@@ -1,9 +1,6 @@
 package com.example.git_hub_3
 
-import android.util.Log
-import java.util.*
-
-class Class_1:onLog {
+class Class_1:OnLog {
 
     fun init(){
         var TAG=javaClass.simpleName

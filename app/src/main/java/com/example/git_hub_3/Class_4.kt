@@ -1,6 +1,6 @@
 package com.example.git_hub_3
 
-class Class_4:onLog{
+class Class_4:OnLog{
     fun init(){
         var TAG=javaClass.simpleName
         var a=System.currentTimeMillis().toString()

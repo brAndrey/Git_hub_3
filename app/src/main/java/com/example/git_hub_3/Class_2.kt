@@ -2,7 +2,7 @@ package com.example.git_hub_3
 
 import android.util.Log
 
-class Class_2 (var a:String):onLog {
+class Class_2 (var a:String):OnLog {
 
     fun init(){
         var TAG=javaClass.simpleName
